@@ -1,5 +1,5 @@
 ---
-title: About Michal Bernhard
+title: About
 layout: about.njk
 name: Michal Bernhard
 image: '/images/me.jpg'

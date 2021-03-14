@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Michal Bernhard'
+title: 'Welcome'
 ---
 # Welcome
 
