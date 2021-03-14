@@ -4,7 +4,7 @@ date: '2021-03-13'
 tags: [links-of-the-week]
 ---
 
-Souhrn věcí co mě zaujali v 10. týdnu (11.-17.3.) roku 2021.
+Souhrn věcí co mě zaujali v 10. týdnu (8.-14.3.) roku 2021.
 
 - [Jak jsem se snažil upozornit armádu, že jim vypršel SSL certifikát](https://twitter.com/michalb_cz/status/1370608837837918208)
 - [Hrot](https://store.steampowered.com/app/824600/HROT/) - výborná nová česká retro střílečka
