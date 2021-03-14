@@ -15,8 +15,7 @@ Co mě z poslední doby zaujalo?
     * [Jindřich Rohlík respektive Skeldal](https://twitter.com/mrengeor) na mě vždycky působil renesančním dojmem (ve smyslu pracoviý člověk mnoha zájmů a talentů) a v tomto podcastu se to jenom potvrzuje. Posuďte sami - vývoj her ([Brany Skeldalu](https://www.databazeknih.cz/serie/brany-skeldalu-5971), dnes člen týmu dělající Beat Saber), [spisovatel](https://www.databazeknih.cz/serie/brany-skeldalu-5971), [TheatreVR](https://www.lupa.cz/aktuality/theatre-vr-cesky-tvurce-bran-skeldalu-zkousi-prevest-divadelni-prkna-do-vr/)
     * vtipná je část o Andrejovi Anastazovi a začátcích Score (a obecně vydavatelské scény v ČR)    
 * [Talk to ... Honza 'bludr' Modrák](https://retronation.cz/poslechnete-si-podcast-talk-to-s-honzou-modrakem/)
-    * Honza Modrak alias Bludr byl pro mě ze svym quake.cz legenda a díky němu jsem vždycky snil po tom hrát online 3D střílečky (v roce 1998 to byla poměrně dost drahá a nedostupná věc) a to mě vlastně dovedlo až ke Counter-Strike "kariéře"
-    * ten zajimavej clovek podvodnik    
+    * Honza Modrak alias Bludr byl pro mě ze svym quake.cz legenda a díky němu jsem vždycky snil po tom hrát online 3D střílečky (v roce 1998 to byla poměrně dost drahá a nedostupná věc) a to mě vlastně dovedlo až ke [Counter-Strike "kariéře"]((https://doupe.zive.cz/clanek/tema-a-rozhovor-prestup-hracu-neophyte-counter-strike-do-necroraisers))
     * Honza nedávno založil vlastní podcast [Modrak & friends](https://modrak.podbean.com/)
         * jako první "friend" je tam zatím ve všech dílech Viktor Bočan (redaktor Score a game designer Operation Flashpoint, Kingsdom Come a dalších)
 
