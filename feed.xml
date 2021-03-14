@@ -85,13 +85,13 @@
 <li>je to napsáne v Pascalu !!!</li>
 </ul>
 </li>
-<li>Znáte sk-cert.sk ?
+<li>Znáte <a href="https://www.sk-cert.sk">sk-cert.sk</a> ?
 <ul>
-<li>sk-cert.sk je slovenská obdoba českého NUKIB čili starají se o národní kyberbezpečnost</li>
-<li>zaujal mě jejich blog, kde pravidelně zveřejnuní články TL;DR; se stručným popisem nejdůležitějších událostí na poli bezpečnosti za uplynulý týden. Nic podobného jsem na československém webu zatim neviděl a rád to budu číst pro rychlou orientaci.
+<li>Národná jednotka SK-CERT (Slovak Computer Emergency Response Team) je slovenská obdoba českého <a href="https://nukib.cz/">NUKIB</a> čili starají se o národní kyberbezpečnost</li>
+<li>zaujal mě jejich blog, kde publikují články s názvem začínajícím <em>TL;DR;</em> se stručným popisem nejdůležitějších událostí na poli bezpečnosti za uplynulý týden. Nic podobného jsem na československém webu zatim neviděl a rád to budu číst pro rychlou orientaci.
 <ul>
 <li><a href="https://www.sk-cert.sk/sk/tldr-praha-aj-oslo-na-muske-hackerov-zneuzivaju-aj-proces-ockovania-10-tyzden/index.html">Např. tento týden</a>
-<img src="stuff-of-the-week-10-2021_horeli_servery_strasburg.png" />
+<img src="/images/stuff-of-the-week-10-2021_horeli_servery_strasburg.png" alt="">
 Zajímavý komentář o používání data centra různými kriminálními aktéry. Skoro to vypadá, že MI5 došla trpělivost :)</li>
 </ul>
 </li>
@@ -99,9 +99,7 @@ Zajímavý komentář o používání data centra různými kriminálními akté
 </li>
 <li><a href="https://kb.jobs.cz/detail-pozice/?id=G2-1555268544-aden_brand0">Komerční banka hledá PHP vývojáře na greenfield projekt</a>
 <ul>
-<li>V roce 2021 začínat PHP projekt v bance? Zajímavé... Osobně považuji PHP za takový budoucí Cobol malých webů
-a věštím, že to KB nepřinese žádnou přidanou hodnotu. Uvidíme.
-<em>Poznámka: aktuálně pracuji v KB v týmu pomáhajícímu s adopcí DevOps v roli vývojáře</em></li>
+<li>Zajímavé. Osobně mám PHP v kategorii budoucí Cobol public webu. Uvidíme jaké s tím KB bude mít zkušenosti.</li>
 </ul>
 </li>
 <li>Znáte <a href="https://rtyley.github.io/bfg-repo-cleaner/">BFG Repo-Cleaner</a> ?
