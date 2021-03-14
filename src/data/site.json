@@ -1,0 +1,48 @@
+{
+  "name": "Michal Bernhard's blog",
+  "description": "This is my blog. Mainly for short posts about something I don't want to forget.",
+  "url": "https://michalbz.github.io",
+  "author": {
+    "name": "Michal Bernhard",
+    "email": "michal.bernhard@gmail.com",
+    "twitterHandle": "michalb_cz"
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/yinkakun/eleventy-duo",
+      "external": true
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/",
+      "external": true
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true
+}
