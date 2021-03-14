@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Michal Bernhard&#39;s blog</title>
+  <subtitle></subtitle>
+  <link href="https://michalbz.github.io/feed.xml" rel="self"/>
+  <link href="https://michalbz.github.io/"/>
+  
+    <updated>2021-03-13T00:00:00Z</updated>
+  
+  <id>https://michalbz.github.io</id>
+  <author>
+    <name>Michal Bernhard</name>
+    <email>michal.bernhard@gmail.com</email>
+  </author>
+  
+    
+    <entry>
+      <title>Retronation.cz</title>
+      <link href="https://michalbz.github.io/posts/retronation/"/>
+      <updated>2021-03-06T00:00:00Z</updated>
+      <id>https://michalbz.github.io/posts/retronation/</id>
+      <content type="html">
+        <![CDATA[
+      <p><a href="https://retronation.cz/">Retronation.cz</a>  je soubor podcastů a videocastů se zaměřením na začátky herní scény a věcí s tím související jako je HW té doby, osobnosti, události.</p>
+<p>Projekt má na svědomí legenda časopisu Level <a href="https://twitter.com/ashnobe">Pavel Dobrovský</a>. Jedná se v podstatě o pokračovní dnes <a href="https://games.tiscali.cz/tv/retro-gamesplay-quake-2-extra-round-bio-menace-57072">již ukončeného</a> <a href="https://games.tiscali.cz/tv/retro-gamesplay">Retro-gamesplay na Games.cz</a>.</p>
+<p>Videocasty jsem viděl jen zbězně (<a href="https://www.youtube.com/watch?v=Bb_G1naYsLc&amp;t=235s">moje oblíbena část o české hře Vietcong</a>), preferuji spíš text a v poslední době i audio (typicky při běhaní). Hodně se mi <a href="https://anchor.fm/retronation/">líbí jejich podcasty</a>. Obsahově a samozřejmě i z té nostalgie, která to doprovází. Sám jsem byl členem herní komunity 1995-2005, takže něco pamatuju a to ať už jako běžný hráč, <a href="https://doupe.zive.cz/clanek/tema-a-rozhovor-prestup-hracu-neophyte-counter-strike-do-necroraisers">kompetitivní hráč</a> nebo jako čtenář  časopisů Excalibur, Level, Score a Gamestar.</p>
+<p>Co mě z poslední doby zaujalo?</p>
+<ul>
+<li><a href="https://anchor.fm/retronation/episodes/Talk-to----Jindich-Rohlk-Skeldal-e5p0q6">Talk to ... Jindřich Rohlík</a>
+<ul>
+<li><a href="https://twitter.com/mrengeor">Jindřich Rohlík respektive Skeldal</a> na mě vždycky působil renesančním dojmem (ve smyslu pracoviý člověk mnoha zájmů a talentů) a v tomto podcastu se to jenom potvrzuje. Posuďte sami - vývoj her (<a href="https://www.databazeknih.cz/serie/brany-skeldalu-5971">Brany Skeldalu</a>, dnes člen týmu dělající Beat Saber), <a href="https://www.databazeknih.cz/serie/brany-skeldalu-5971">spisovatel</a>, <a href="https://www.lupa.cz/aktuality/theatre-vr-cesky-tvurce-bran-skeldalu-zkousi-prevest-divadelni-prkna-do-vr/">TheatreVR</a></li>
+<li>vtipná je část o Andrejovi Anastazovi a začátcích Score (a obecně vydavatelské scény v ČR)</li>
+</ul>
+</li>
+<li><a href="https://retronation.cz/poslechnete-si-podcast-talk-to-s-honzou-modrakem/">Talk to ... Honza 'bludr' Modrák</a>
+<ul>
+<li>Honza Modrak alias Bludr byl pro mě ze svym quake.cz legenda a díky němu jsem vždycky snil po tom hrát online 3D střílečky (v roce 1998 to byla poměrně dost drahá a nedostupná věc) a to mě vlastně dovedlo až ke Counter-Strike &quot;kariéře&quot;</li>
+<li>ten zajimavej clovek podvodnik</li>
+<li>Honza nedávno založil vlastní podcast <a href="https://modrak.podbean.com/">Modrak &amp; friends</a>
+<ul>
+<li>jako první &quot;friend&quot; je tam zatím ve všech dílech Viktor Bočan (redaktor Score a game designer Operation Flashpoint, Kingsdom Come a dalších)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Pokud se vám jejich tvorba líbí, <a href="https://www.patreon.com/retronationcz">tak kluky stejně jako já podpořte</a>.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Kohsuke Kawaguchi</title>
+      <link href="https://michalbz.github.io/posts/kohsuke_kawaguchi/"/>
+      <updated>2021-03-07T00:00:00Z</updated>
+      <id>https://michalbz.github.io/posts/kohsuke_kawaguchi/</id>
+      <content type="html">
+        <![CDATA[
+      <p><a href="https://en.wikipedia.org/wiki/Kohsuke_Kawaguchi">Kohsuke Kawaguchi</a> je legenda z již zaniklého <a href="https://en.wikipedia.org/wiki/Sun_Microsystems">SUN Microsystems</a>, autor <a href="https://javaee.github.io/jaxb-v2/doc/user-guide/ch03.html">pro mě obsukrního JAXB API</a> (pokud máte tu smůlu, že musíte v Jave řešit XML koukněte radši na <a href="http://x-stream.github.io/">XStream</a>), autor <a href="https://www.jenkins.io/">Hudsonu, ech pardon, Jenkins CI/CD serveru</a>.</p>
+<p>Už dlouho mě fascinuje jeho blog <a href="https://kohsuke.org/">kohsuke.org</a>.</p>
+<p>Je ten typ geniálního inženýra, který <a href="https://kohsuke.org/2013/08/13/lego-earth-project/">prostě žije</a> ve <a href="https://kohsuke.org/2021/02/28/kohsukes-virtual-bike-trip/">svém vlastním světě</a> a <a href="https://www.launchableinc.com/2020/01/23/kohsuke-kawaguchi-launchable-smarter-testing-faster-devops">děla věci jinak</a> a <a href="https://stapler.kohsuke.org/">po svém</a>.</p>
+<p>Pokud vás zajíma pozadí Koshukeho stávajícího dopodružství s názvem <a href="https://www.launchableinc.com/">Launchable</a> aka AI/ML vs spouštění testů, poslechněte si <a href="https://spring.io/blog/2020/05/21/a-bootiful-podcast-jaxb-contributor-com4j-jenkins-and-launchable-founder-kohsuke-kawaguchi">podcast od Spring evangelisty Josh Long (mohli jste ho potkat na CZJUGu)</a>. Joshuv styl mi obecně moc nesedí, ale rozhovor je zajímavý a hlavně musíte minimálně slyšet Kohsukeho hlas. Vždycky jsem si řikal, že je to stroj na kód a v tom kontextu mě ta jeho dikce rozesmála. Asi jsem moc dlouho v karanténě :)</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Týden #10 2021 - co mě zaujalo </title>
+      <link href="https://michalbz.github.io/posts/stuff-of-the-week-10-2021/"/>
+      <updated>2021-03-13T00:00:00Z</updated>
+      <id>https://michalbz.github.io/posts/stuff-of-the-week-10-2021/</id>
+      <content type="html">
+        <![CDATA[
+      <p>Souhrn věcí co mě zaujali v 10. týdnu (11.-17.3.) roku 2021.</p>
+<ul>
+<li><a href="https://twitter.com/michalb_cz/status/1370608837837918208">Jak jsem se snažil upozornit armádu, že jim vypršel SSL certifikát</a></li>
+<li><a href="https://store.steampowered.com/app/824600/HROT/">Hrot</a> - výborná nová česká retro střílečka
+<ul>
+<li>skvěla hratelnost</li>
+<li>vypadá to jak Quake 1 z Československa</li>
+<li>je to napsáne v Pascalu !!!</li>
+</ul>
+</li>
+<li>Znáte sk-cert.sk ?
+<ul>
+<li>sk-cert.sk je slovenská obdoba českého NUKIB čili starají se o národní kyberbezpečnost</li>
+<li>zaujal mě jejich blog, kde pravidelně zveřejnuní články TL;DR; se stručným popisem nejdůležitějších událostí na poli bezpečnosti za uplynulý týden. Nic podobného jsem na československém webu zatim neviděl a rád to budu číst pro rychlou orientaci.
+<ul>
+<li><a href="https://www.sk-cert.sk/sk/tldr-praha-aj-oslo-na-muske-hackerov-zneuzivaju-aj-proces-ockovania-10-tyzden/index.html">Např. tento týden</a>
+<img src="stuff-of-the-week-10-2021_horeli_servery_strasburg.png" />
+Zajímavý komentář o používání data centra různými kriminálními aktéry. Skoro to vypadá, že MI5 došla trpělivost :)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://kb.jobs.cz/detail-pozice/?id=G2-1555268544-aden_brand0">Komerční banka hledá PHP vývojáře na greenfield projekt</a>
+<ul>
+<li>V roce 2021 začínat PHP projekt v bance? Zajímavé... Osobně považuji PHP za takový budoucí Cobol malých webů
+a věštím, že to KB nepřinese žádnou přidanou hodnotu. Uvidíme.
+<em>Poznámka: aktuálně pracuji v KB v týmu pomáhajícímu s adopcí DevOps v roli vývojáře</em></li>
+</ul>
+</li>
+<li>Znáte <a href="https://rtyley.github.io/bfg-repo-cleaner/">BFG Repo-Cleaner</a> ?
+<ul>
+<li>Narazil jsem na něj ve výborné <a href="https://docs.github.com/en">github dokumentaci</a>, když jsem zkoumal <a href="https://github.com/features/actions">GitHub Actions</a>. Vypadá to na hodně užitečný nástroj - mimo jiné na elegantní odstraňování secrets (hesla, api klíče apod.) z git historie. Jednou jsem něco podobného řesil přes git-filter-branch a triviální to rozhodně nebylo.</li>
+</ul>
+</li>
+</ul>
+
+    ]]>
+      </content>
+    </entry>
+  
+</feed>

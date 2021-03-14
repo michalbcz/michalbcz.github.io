@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://michalbz.github.io/sitemap.xml
