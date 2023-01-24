@@ -3,7 +3,7 @@ title: Kohsuke Kawaguchi
 date: '2021-03-07'
 tags: [jenkins, koshuke-kawaguchi]
 ---
-[Kohsuke Kawaguchi](https://en.wikipedia.org/wiki/Kohsuke_Kawaguchi) je legenda z již zaniklého [SUN Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems), autor [pro mě obsukrního JAXB API](https://javaee.github.io/jaxb-v2/doc/user-guide/ch03.html) (pokud máte tu smůlu, že musíte v Jave řešit XML koukněte radši na [XStream](http://x-stream.github.io/)), autor [Hudsonu, ech pardon, Jenkins CI/CD serveru](https://www.jenkins.io/).
+[Kohsuke Kawaguchi](https://en.wikipedia.org/wiki/Kohsuke_Kawaguchi) je legenda z již zaniklého [SUN Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems), autor [pro mě obskurního JAXB API](https://javaee.github.io/jaxb-v2/doc/user-guide/ch03.html) (pokud máte tu smůlu, že musíte v Jave řešit XML koukněte radši na [XStream](http://x-stream.github.io/)), autor [Hudsonu, ech pardon, Jenkins CI/CD serveru](https://www.jenkins.io/).
 
 Už dlouho mě fascinuje jeho blog [kohsuke.org](https://kohsuke.org/).
 
