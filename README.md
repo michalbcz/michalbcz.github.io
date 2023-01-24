@@ -8,7 +8,7 @@ I use nice and easy to follow tutorial from https://www.rockyourcode.com/how-to-
 npm run build
 ```
 
-# How to developer ?
+# How to develop ?
 ```
 npm run dev
 ```
